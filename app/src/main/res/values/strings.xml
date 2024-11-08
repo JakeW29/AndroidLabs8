@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidLabs8</string>
+    <string name="dadjoke">Dad Joke</string>
+    <string name="joketext">Have you heard about the chocolate record player? It sounds pretty sweet.</string>
+    <string name="home">Home</string>
+    <string name="exit">Exit</string>
+    <string name="string_close">close</string>
+    <string name="string_open">open</string>
+</resources>
